@@ -1,5 +1,8 @@
 _repo: The-education-of-Uncle-Paul_69668
 _version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 69668-h/images/cover.jpg
 creator:
   author:
     agent_name: Blackwood, Algernon
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1370
     wikipedia: https://en.wikipedia.org/wiki/Algernon_Blackwood
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69668#The-education-of-Uncle-Paul
 gutenberg_issued: '2022-12-31'
 identifiers:
   gutenberg: '69668'
